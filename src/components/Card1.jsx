@@ -32,7 +32,7 @@ const Card1 = () => {
       </div>
       <div className="flex gap-4 p-4 ml-2.5 items-start">
       <div className="mt-5 w-[19px]">
-          <img src="/public/grid.svg" alt="" />
+          <img src="/grid.svg" alt="" />
         </div>
         <div className="flex-1">
           <p className="text-[#969696] text-[18px]">{tabContent[activeTab]}</p>

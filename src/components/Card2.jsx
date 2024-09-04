@@ -39,7 +39,7 @@ const Card2 = () => {
     <div className="h-[50%] w-[100%] bg-[#363C43] rounded-[27px] shadow-lg shadow-black">
       <div className="p-4 flex gap-4">
         <div>
-          <img src="/public/QMark.svg" alt="" />
+          <img src="/QMark.svg" alt="" />
         </div>
         <div className="w-full flex justify-between items-center">
           <div>
@@ -132,7 +132,7 @@ const Card2 = () => {
       </div>
       <div className="flex gap-4 p-2 ml-2.5 ">
         <div className="mt-5 w-[19px]">
-          <img src="/public/grid.svg" alt="" />
+          <img src="/grid.svg" alt="" />
         </div>
         <div className="relative overflow-hidden h-40 w-full">
           <motion.div
